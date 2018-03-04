@@ -2,3 +2,5 @@
 First GitHub Repository
 
 Just following this first GitHub tutorial to evaluate how I like it.
+
+Just a guy learning Git!
